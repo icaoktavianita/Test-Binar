@@ -1,0 +1,29 @@
+body {
+  background-color: white;
+  
+}
+.container {
+  margin-left: 550px;
+}
+.vertikal {
+  margin-left: 50px;
+}
+.horizontal {
+  margin-top: -10px;
+  margin-right: 650px;
+}
+.satu {
+  margin-top: -10px;
+}
+.dua {
+  margin-left: -20px;
+  margin-top: -10px;
+}
+.tiga{
+  margin-top: -27px;
+ margin-left: 150px;
+}
+.empat{
+  margin-left: 130px;
+  margin-top: -30px;
+}
